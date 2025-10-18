@@ -1,0 +1,33 @@
+﻿E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output dizini sonda bir eğik çizgiyle bitmiyor. Output dizininin düzgün değerlendirilmesi için bu eğik çizgi gerekli olduğundan bu oluşturma örneği eğik çizgiyi ekleyecek.
+  MerchantInvSlot.cpp
+  MerchantSlot.cpp
+  DFont.cpp
+  LogWriter.cpp
+  N3AlphaPrimitiveManager.cpp
+  N3AnimKey.cpp
+  N3Base.cpp
+  N3BaseFileAccess.cpp
+  N3Texture.cpp
+  N3Transform.cpp
+  N3UIArea.cpp
+  N3UIBase.cpp
+  N3UIButton.cpp
+  N3UIEdit.cpp
+  N3UIImage.cpp
+  N3UIList.cpp
+  N3UIProgress.cpp
+  N3UIScrollBar.cpp
+  N3UIStatic.cpp
+  N3UIString.cpp
+  N3UITooltip.cpp
+  N3UITrackBar.cpp
+  RC5.cpp
+  connection_win.cpp
+  discord_register_win.cpp
+  discord_rpc.cpp
+  rpc_connection.cpp
+  serialization.cpp
+     E:\nexusko client\NEXUSKO\Nx.lib kitaplığı ve E:\nexusko client\NEXUSKO\Nx.exp nesnesi oluşturuluyor
+detours.lib(detours.obj) : warning LNK4099: PDB '', 'detours.lib(detours.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+detours.lib(disasm.obj) : warning LNK4099: PDB '', 'detours.lib(disasm.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+  Pearl Guard.vcxproj -> E:\nexusko client\NEXUSKO\Nx.ACS
